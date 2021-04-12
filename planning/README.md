@@ -7,7 +7,7 @@
 ## Communication Schedule
 
 | Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
+| Tuesday | :-: | ----------------------- |
 |     |     |                         |
 
 ## Communication Channels
@@ -23,17 +23,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    name     |    name     |    name     |    name     |        name         |
+| Day       |    Jose Tomas    |    Ekaterina     |    Rayane     |    Wadid     |        Ali         |
 | --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | after 12:00 | after 10:00 |   all day   | between 12:00-14:00 |
-| Tuesday   |   all day   | after 15:00 | after 14:00 |   all day   |     after 18:00     |
-| Wednesday | after 13:00 | after 12:00 | after 10:00 | after 13:00 |     after 18:00     |
-| Thursday  |   all day   | after 12:00 |    busy     |   all day   | between 12:00-14:00 |
-| Friday    |   all day   |   all day   |    busy     |   all day   |     after 18:00     |
+| Monday    |  | after 12:00 | all day |   ??   | ?? |
+| Tuesday   |   all day   | after 12:00 | ?? |   ??   |     ??     |
+| Wednesday | after 13:00 | all day | ?? | ?? |    ??     |
+| Thursday  |   all day   | between 14:00-17:00 |   ??    |   ??   | ?? |
+| Friday    |   all day   |   busy   |    ??    |   ??   |     ??     |
 
 ### How many hours everyone has per day:
 
-- name: _5h_;
+- Ekaterina: _approximately 5h_;
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
