@@ -7,7 +7,7 @@
 ## Communication Schedule
 
 | Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
+| Wednesday April 14th | Zoom (?) | Brainstorming |
 |     |     |                         |
 
 ## Communication Channels
@@ -28,16 +28,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Monday    | after 13:00 | before 15:00  | -- | After 16:00 | -- |
 | Tuesday   |   all day   |  after 11:00  | -- |    busy     | -- |
 | Wednesday | after 13:00 | before 17:00  | -- | After 16:00 |  -- |
-| Thursday  |   all day   | 16:00 - 18:00 | -- | After 16:00 | between 12:00-14:00 |
-| Friday    | after 13:00 |     busy      | -- | After 16:00 | -- |
+| Thursday  |   all day   | all day | -- | After 16:00 | -- |
+| Friday    | after 13:00 | 12:00 - 15:00 | -- | After 16:00 | -- |
 
 ### How many hours everyone has per day:
 
 -  Rayane: _6h_;
 -  Ekaterina: _4h_;
--  name: _5h_;
--  name: _4h_;
--  name: _3h_;
+-  Jose Tomas: _ХХh_;
+-  Widad: _ХХh_;
+-  Ali: _ХХh_;
 
 ## Asking for Help
 
