@@ -23,18 +23,18 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |   Rayane    |   Ekaterina   |    name     | Jose Tomas  |        name         |
+| Day       |   Rayane    |   Ekaterina   |    Widad     | Jose Tomas  |        Ali         |
 | --------- | :---------: | :-----------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | before 15:00  | after 10:00 | After 16:00 | between 12:00-14:00 |
-| Tuesday   |   all day   |  after 11:00  | after 14:00 |    busy     |     after 18:00     |
-| Wednesday | after 13:00 | before 17:00  | after 10:00 | After 16:00 |     after 18:00     |
-| Thursday  |   all day   | 16:00 - 18:00 |    busy     | After 16:00 | between 12:00-14:00 |
-| Friday    | after 13:00 |     busy      |    busy     | After 16:00 |     after 18:00     |
+| Monday    | after 13:00 | before 15:00  | -- | After 16:00 | -- |
+| Tuesday   |   all day   |  after 11:00  | -- |    busy     | -- |
+| Wednesday | after 13:00 | before 17:00  | -- | After 16:00 |  -- |
+| Thursday  |   all day   | 16:00 - 18:00 | -- | After 16:00 | between 12:00-14:00 |
+| Friday    | after 13:00 |     busy      | -- | After 16:00 | -- |
 
 ### How many hours everyone has per day:
 
 -  Rayane: _6h_;
--  name: _6h_;
+-  Ekaterina: _4h_;
 -  name: _5h_;
 -  name: _4h_;
 -  name: _3h_;
