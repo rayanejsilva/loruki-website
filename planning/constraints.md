@@ -12,7 +12,8 @@ Some boundaries around our project.
 -->
 
 ## Internal: Involuntary
-
+1. Tight schedules of our group members that often don't meet each other – it's hard to find a time slot for a meeting, suitable for everyone!
+2. One of our students has problems with her computer and cannot fully participate in the project
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
