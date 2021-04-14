@@ -35,7 +35,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 -  Rayane: _6h_;
 -  Ekaterina: _4h_;
--  Jose Tomas: _ХХh_;
+-  Jose Tomas: _4h_;
 -  Widad: _ХХh_;
 -  Ali: _ХХh_;
 
