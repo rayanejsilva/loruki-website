@@ -7,7 +7,8 @@
 ## Communication Schedule
 
 | Day | How | The topic of discussion |
-| Wednesday April 14th | Zoom (?) | Brainstorming |
+| --- | :--: | :--------------------: | 
+| Wednesday 16:00 | Zoom | Brainstorming |
 |     |     |                         |
 
 ## Communication Channels
