@@ -25,18 +25,18 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |   Rayane    |   Ekaterina   |    Widad     | Jose Tomas  |        Ali         |
 | --------- | :---------: | :-----------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | before 15:00  | -- | After 16:00 | -- |
-| Tuesday   |   all day   |  after 11:00  | -- |    busy     | -- |
-| Wednesday | after 13:00 | before 17:00  | -- | After 16:00 |  -- |
-| Thursday  |   all day   | all day | -- | After 16:00 | -- |
-| Friday    | after 13:00 | 12:00 - 15:00 | -- | After 16:00 | -- |
+| Monday    | after 13:00 | before 15:00  | after 15:00| After 16:00 | -- |
+| Tuesday   |   all day   |  after 11:00  | after 15:00|    busy     | -- |
+| Wednesday | after 13:00 | before 17:00  | after 15:00 | After 16:00 |  -- |
+| Thursday  |   all day   | all day | after 15:00 | After 16:00 | -- |
+| Friday    | after 13:00 | 12:00 - 15:00 | after 15:00 | After 16:00 | -- |
 
 ### How many hours everyone has per day:
 
 -  Rayane: _6h_;
 -  Ekaterina: _4h_;
 -  Jose Tomas: _4h_;
--  Widad: _ХХh_;
+-  Widad: _6h_;
 -  Ali: _ХХh_;
 
 ## Asking for Help
