@@ -11,12 +11,12 @@ are necessary for basic usability:
 - **Website Visitor**: As a Website Visitor I want to have existing header and footer navs so that I have clear navigation around the website:    
   - [ ] Given when the user visits the website then it must have the main navigation menu displayed in the header and the secondary navigation menu in the footer
 - **Website Visitor**: As a Website Visitor I want the correct links exist in the navs
-  - [ ]  Given when I see the header and the footer, then links to [... specific sections ...] of the website are provided
+  - [ ]  Given when I see the header and the footer, then links to Home, Features and Docs of the website are provided
 - **Website Visitor**: As a Website Visitor I want to know whether I can use the solution on my computer 
   - [ ] Given when I visit the website then I can see the list of languages supported, and the technical requirements
 - **Website Visitor**: As a Website Visitor I want to know how to install Loruki on my computer so that I could use it   
   - [ ] Given when the user visits the home page then he can see brief information ont how to instal Loruki
-  - [ ] Given when the user visits the [other] pages then he can see all the necessary instructions. 
+  - [ ] Given when the user visits the Docs page then he can see all the necessary instructions. 
 - **Website Visitor**: As a User I want to request a demo so that I receive a demo version to my mailbox
   - [ ] Given when I fill in the form with my contacts then the demo is dent to my e-mail
 - **Admin**: As an Admin I want to send the demo version to the users who requested it so that    
