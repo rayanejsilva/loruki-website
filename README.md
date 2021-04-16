@@ -20,7 +20,7 @@ Our site will be hosted directly from our GitHub repository.
 
 ## Group members
 
-This project is developed by **Group 1** from **Class 15**.
+This project is developed by **Group 1** from **#Class 15**.
 
 Our members are:
 
