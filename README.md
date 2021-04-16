@@ -32,7 +32,7 @@ Our members are:
 
 ## Learning goals
 
-In this module we are going to learn how to plan and organize our development process by breaking the Loruki website into small, manageable tasks and sharing them between group members.
+Our project goal is to learn how to plan and organize our development process by breaking the Loruki website into small, manageable tasks and sharing them between group members.
 
 ## Project phases
 
