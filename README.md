@@ -10,7 +10,6 @@ This repository contains all the material for Loruki website project for the [H
   - [Project phases](#project-phases)
   - [Technologies](#technologies)
   - [Links](#links)
-  - [Screenshots](#screenshots)
   - [Credits](#credits)
   - [License](#license)
 
