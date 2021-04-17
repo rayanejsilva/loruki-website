@@ -118,7 +118,7 @@ All issues under this header will have `main-docs` and `css` labels.
 
 All issues under this header will have `footer-docs` and `html`labels.
 
-Inside of a footer class *docs-footer* create:
+Inside of the class *docs-footer* create:
   - [ ] a div with a class *container-grid-footer*.
        - [ ] a div with h1 Loruki and a paragraph with copyright.
 
