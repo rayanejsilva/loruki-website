@@ -12,10 +12,10 @@
 
 All issues under this header will have `navbar-docs` and `html`labels.
 
-- [ ] Create a div class *navbar*.
-  - [ ] Inside of this div create a div class *container flex*.
-      - [ ] h1 class *logo* Loruki.
-      - [ ] nav tag with unordered list with three items in it.
+- [ ] Create a div class *navbar*
+  - [ ] Inside of this div create a div class *container flex*
+      - [ ] h1 class *logo* Loruki
+      - [ ] nav tag with unordered list with three items in it
 
 
 ### CSS 
@@ -31,16 +31,16 @@ All issues under this header will have `navbar-docs` and `css`labels.
 
 All issues under this header will have `main-docs` and `html`labels.
 
-- [ ] Create a section with class *docs-main*.
-     - [ ] a div with class *main-right*.
+- [ ] Create a section with class *docs-main*
+     - [ ] a div with class *main-right*
      Inside of this div:
-  - [ ]  h2 Introduction
-    - [ ]  one paragraphs
-  - [ ]  div class alert
-     - [ ]  icon info
+  - [ ] h2 Introduction
+    - [ ] one paragraph
+  - [ ] div class *alert*
+     - [ ]  info icon with some text
   - [ ]  button Install CLI
   - [ ]  h3 Requirements
-    - [ ] unordered list with two items in it.
+    - [ ] unordered list with two items in it
   - [ ]  h3 Install
     - [ ] three paragraphs
 
@@ -57,10 +57,10 @@ All issues under this header will have `main-docs` and `html`labels.
 
 All issues under this header will have `footer-docs` and `html`labels.
 
-- [ ] Create a footer tag with class *docs-footer*.
+- [ ] Create a footer tag with class *docs-footer*
 Inside of the this tag create:
-  - [ ] nav tag with unordered list with three items in it.
-  - [ ] div class *social* with four hyperlinks.
+  - [ ] nav tag with unordered list with three items in it
+  - [ ] div class *social* with four hyperlinks
 
 
 ### CSS
@@ -78,10 +78,10 @@ All issues under this header will have `footer-docs` and `css`labels.
 
 All issues under this header will have `head-docs` and `html`labels.
 
-- [ ] Create a section tag with class *docs-head*.
+- [ ] Create a section tag with class *docs-head*
 Inside of the this section create:
-  - [ ] a div with a class *container-grid*.
-       - [ ] a div with a h1 with class and paragraph with class.
+  - [ ] a div with a class *container-grid*
+       - [ ] a div with a h1 with class and paragraph with class
   - [ ] add imagedocs.png
 
 ### CSS
@@ -97,13 +97,13 @@ All issues under this header will have `head-docs` and `css` labels.
 All issues under this header will have `main-docs` and `html`labels.
 
 Inside of a section with class *docs-main* create:
-- [ ] a div with a class *container-grid*.
-     - [ ] a div with class *main-left*.
+- [ ] a div with a class *container-grid*
+     - [ ] a div with class *main-left*
 - Inside of this div:
   - [ ]  h3 Essentials
-    - [ ] nav tag with unordered list with three items in it.
+    - [ ] nav tag with unordered list with three items in it
   - [ ]  h3 Deployment
-    - [ ] nav tag with unordered list with four items in it.
+    - [ ] nav tag with unordered list with four items in it
 
 
 ### CSS
@@ -119,8 +119,8 @@ All issues under this header will have `main-docs` and `css` labels.
 All issues under this header will have `footer-docs` and `html`labels.
 
 Inside of the class *docs-footer* create:
-  - [ ] a div with a class *container-grid-footer*.
-       - [ ] a div with h1 Loruki and a paragraph with copyright.
+  - [ ] a div with a class *container-grid-footer*
+       - [ ] a div with h1 Loruki and a paragraph with copyright
 
 ### CSS    
 
