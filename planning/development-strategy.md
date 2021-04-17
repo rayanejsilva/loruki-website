@@ -33,7 +33,7 @@ All issues under this header will have `main-docs` and `html`labels.
 
 - [ ] Create a section with class *docs-main*
      - [ ] a div with class *main-right*.
-- Inside of this div:
+Inside of this div:
   - [ ]  h2 Introduction
     - [ ]  one paragraphs
   - [ ]  div class alert
