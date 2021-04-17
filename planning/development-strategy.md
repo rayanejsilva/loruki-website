@@ -22,6 +22,17 @@ All issues under this header will have `navbar-docs` and `html`labels.
 
 All issues under this header will have `navbar-docs` and `css`labels.
 
+- class *navbar*
+  - [ ] height: 70px
+  - [ ] background-color: 
+  - [ ] media queries
+
+- class *navbar* unordered list 
+  - [ ] display: flex
+
+- class *container flex*
+   - [ ] max-width: 1100px
+   - [ ] background-color: 
 
 ---
 
@@ -49,6 +60,16 @@ All issues under this header will have `main-docs` and `html`labels.
 
 All issues under this header will have `main-docs` and `html`labels.
 
+ - class *docs-main*
+  - [ ] font-size: 17px
+  - [ ] color: white
+  - [ ] media queries
+  
+ - h1, h2
+ - [ ] font-weight: 300
+ 
+ - class *main-right*
+ - [ ] background-color: white
 
 
 ## Footer
@@ -66,6 +87,7 @@ Inside of the this tag create:
 ### CSS
 
 All issues under this header will have `footer-docs` and `css`labels.
+
 
 
 ---
@@ -87,6 +109,10 @@ Inside of the this section create:
 ### CSS
 
 All issues under this header will have `head-docs` and `css` labels.
+
+- image
+- [ ] width: 100%;
+
 
 ---
 
