@@ -68,9 +68,16 @@ All issues under this header will have `main-docs` and `html`labels.
  - h1, h2
  - [ ] font-weight: 300
  
+ - h3
+ - [ ] font-size: 35px
+ 
  - class *main-right*
  - [ ] background-color: white
 
+- button
+- [ ] display: inline-block
+ - [ ]  padding: 10px 30px
+ - [ ] cursor: pointer
 
 ## Footer
 
