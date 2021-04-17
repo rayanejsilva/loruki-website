@@ -13,9 +13,9 @@
 All issues under this header will have `navbar-docs` and `html`labels.
 
 - [ ] Create a div class *navbar*.
-  - [ ] Inside the *div class navbar* create a second div class *container flex*.
-      - [ ] h1 with Loruki.
-      - [ ] nav tag unordered list with three items in it.
+  - [ ] Inside of this div create a div class *container flex*.
+      - [ ] h1 class *logo* Loruki.
+      - [ ] nav tag with unordered list with three items in it.
 
 
 ### CSS 
@@ -118,9 +118,9 @@ All issues under this header will have `main-docs` and `css` labels.
 
 All issues under this header will have `footer-docs` and `html`labels.
 
-Inside of a footer tag with class *docs-footer* create:
+Inside of a footer class *docs-footer* create:
   - [ ] a div with a class *container-grid-footer*.
-       - [ ] a div with a h1 with class and paragraph.
+       - [ ] a div with h1 Loruki and a paragraph with copyright.
 
 ### CSS    
 
